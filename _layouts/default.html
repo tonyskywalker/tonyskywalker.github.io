@@ -8,7 +8,16 @@
 <body>
 	<p><a href="http://tonyskywalker.github.io/">tony's blog</a> 
 		<a href="https://github.com/tonyskywalker">tony's code</a>  </p>
-	{{ content }}
+---
+layout: default
+title: hello, git
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>{{ content }}</p>
+
+<p>{{ page.date | date_to_string }}</p>
 </body>
 </html>
 
