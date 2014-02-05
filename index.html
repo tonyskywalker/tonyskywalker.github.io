@@ -1,2 +1,16 @@
-Hi, mio. Happy New Year!
+---
+layout: default
+title: tony's blog
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>Hi, mio. Happy New Year!</p>
+<p>new blogs</p>
+
+<ul>
+{% for post in site.posts %}
+	<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 
