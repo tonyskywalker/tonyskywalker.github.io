@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ page.title }}
+title: gitosis-start
 ---
 
 git-and-gitosis-start
