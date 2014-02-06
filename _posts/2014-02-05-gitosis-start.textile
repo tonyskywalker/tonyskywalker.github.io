@@ -1,10 +1,9 @@
 ---
 layout: default
-title: tony's blog
+title: {{ page.title }}
 ---
 
 git-and-gitosis-start
-===
 
 Sometimes, You need a git-server. This is the demo.
 
