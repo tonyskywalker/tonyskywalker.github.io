@@ -1,3 +1,8 @@
+---
+layout: default
+title: tony's blog
+---
+
 git-and-gitosis-start
 
 Sometimes, You need a git-server. This is the demo.
