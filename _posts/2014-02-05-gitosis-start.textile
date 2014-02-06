@@ -3,7 +3,7 @@ layout: default
 title: gitosis-start
 ---
 
-git-and-gitosis-start
+h1. git-and-gitosis-start
 
 Sometimes, You need a git-server. This is the demo.
 
