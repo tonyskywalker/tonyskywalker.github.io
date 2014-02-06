@@ -4,7 +4,8 @@ title: hello, markdown
 ---
 
 h1. {{ page.title }}
-<p>{{ page.date | date_to_string }}</p>
+
+p(meta). {{ page.date | date_to_string }}
 
 Wow, markdown. It is amazing!
 
