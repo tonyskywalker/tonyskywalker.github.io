@@ -1,0 +1,10 @@
+---
+layout: default
+title: hello, markdown
+---
+
+h1. {{ page.title }}
+p(meta). {{ page.date | date_to_string }}
+
+Wow, markdown. It is amazing!
+
