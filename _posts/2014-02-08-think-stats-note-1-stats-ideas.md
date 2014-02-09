@@ -56,6 +56,7 @@ One Question: Do first babies arrive late?
 ------------------------------------------
 
 Some answers like these:
+
 - “My two friends that have given birth recently to their first babies, BOTH went almost 
 2 weeks overdue before going into labour or being induced.”
 
@@ -67,6 +68,7 @@ as with many of my cousins.”
 
 Reports like these are called anecdotal evidence because they are based on data that is 
 unpublished and usually personal. 
+
 - Small number of observations: If the gestation period is longer for first babies, 
 the difference is probably small compared to the natural variation. In that case, 
 we might have to compare a large number of pregnancies to be sure that a difference exists.
