@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<section class="post">
-{{ content }}
-</section>
-
 <section class="meta">
 <span class="author">
 	<a href="http://tonyskywalker.github.io">{{ site.author }}</a>
@@ -38,6 +34,10 @@ layout: default
 	{% endfor %}
 </span>
 {% endif %}
+</section>
+
+<section class="post">
+{{ content }}
 </section>
 
 {% include comments.md %}
