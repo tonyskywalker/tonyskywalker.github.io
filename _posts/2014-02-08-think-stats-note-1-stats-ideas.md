@@ -1,12 +1,9 @@
 ---
 layout: post
 title: think-stats-note-1 statistical thinking
+categories: [booknote]
+tags: [probability, statistics, python]
 ---
-
-{{ page.title }}
-========================================
-
-<p class="meta">{{ page.date | date_to_string }}</p>
 
 Why we learn probability and statistics with a computational approach using python?
 -----------------------------------------------------------------------------------

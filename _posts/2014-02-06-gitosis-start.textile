@@ -1,11 +1,9 @@
 ---
 layout: post
-title: gitosis-start
+title: gitosis start
+categories: [tool]
+tags: [git, gitosis]
 ---
-
-h1. git-and-gitosis-start
-
-p(meta). {{ page.date | date_to_string }}
 
 Sometimes, You need a git-server. This is the demo.
 

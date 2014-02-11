@@ -1,11 +1,9 @@
 ---
 layout: post
-title: github-start
+title: github start
+categories: [tool]
+tags: [git, github]
 ---
-
-h1. git-and-github-start
-
-p(meta). {{ page.date | date_to_string }}
 
 I want to try git and github.
 
