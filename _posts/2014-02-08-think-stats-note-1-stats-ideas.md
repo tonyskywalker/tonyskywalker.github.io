@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: think-stats-note-1 statistical thinking
 ---
 
