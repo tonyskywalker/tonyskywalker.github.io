@@ -8,12 +8,6 @@ title: tony's blog
 <br/>
 <p>the latest blogs:</p>
 
-<ul>
-{% for post in site.posts %}
-	<li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
 <ul class="listing">
 {% for post in site.posts %}
 	{% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
