@@ -1,2 +1,5 @@
 url: http://tonyskywalker.github.io
+author: tonyskywalker
+markdown: rdiscount
+pygments: true
 
