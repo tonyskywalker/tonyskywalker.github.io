@@ -7,7 +7,7 @@ tags: [search, lucene, index]
 
 Lucene 索引文本文件的简单例子：
 
-{% highlight objc linenos %}
+{% highlight java %}
 package com.l99.lucene.index;
 
 import java.io.File;
