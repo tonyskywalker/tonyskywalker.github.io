@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Lucene学习7 Lucene分析过程
 categories: [search]
 tags: [search, lucene, analyzer]

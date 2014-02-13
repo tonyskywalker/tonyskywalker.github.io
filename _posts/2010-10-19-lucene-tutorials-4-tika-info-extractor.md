@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Lucene学习4 Tika内容提取
 categories: [search]
 tags: [search, lucene, tika, extraction]

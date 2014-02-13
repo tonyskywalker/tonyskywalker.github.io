@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Solr学习1 模式设计
 categories: [search]
 tags: [search, solr, schema]

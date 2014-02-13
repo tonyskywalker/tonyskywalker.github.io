@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Lucene学习5 中文分词
 categories: [search]
 tags: [search, lucene, tokenizer]

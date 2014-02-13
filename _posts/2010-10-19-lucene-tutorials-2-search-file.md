@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Lucene学习2 搜索文本文件
 categories: [search]
 tags: [search, lucene]

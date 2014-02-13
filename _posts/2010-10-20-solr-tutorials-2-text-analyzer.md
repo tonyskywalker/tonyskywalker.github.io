@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: Solr学习2 文本分析
 categories: [search]
 tags: [search, solr, analyzer]
