@@ -107,7 +107,7 @@ return f.getName().toLowerCase().endsWith(".txt");
 
 运行结果:
 
-{% highlight bash %}
+{% highlight vim %}
 Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\apache1.0.txt
 
 Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\apache1.1.txt
@@ -145,7 +145,7 @@ Indexing 16 files took 718 milliseconds
 
 生成索引文件：
 
-{% highlight bash %}
+{% highlight vim %}
 _0.cfs
 
 _0.cfx
@@ -165,7 +165,7 @@ Indexing 16 files took 1232 milliseconds
 
 生成索引文件
 
-{% highlight bash %}
+{% highlight vim %}
 _1.fdt
 
 _1.fdx
