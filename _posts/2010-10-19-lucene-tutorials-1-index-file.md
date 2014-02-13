@@ -8,7 +8,7 @@ tags: [search, lucene, index]
 Lucene 索引文本文件的简单例子：
 
 {% highlight java %}
-package com.l99.lucene.index;
+package com.tony.lucene.index;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -107,6 +107,7 @@ return f.getName().toLowerCase().endsWith(".txt");
 
 运行结果:
 
+{% highlight bash %}
 Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\apache1.0.txt
 
 Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\apache1.1.txt
@@ -140,9 +141,11 @@ Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\mozilla_eula_firefox
 Indexing D:\eclipse\eclipse\workspace\Lucene\data\simpletxt\mozilla_eula_thunderbird2.txt
 
 Indexing 16 files took 718 milliseconds
+{% endhighlight %}
 
 生成索引文件：
 
+{% highlight bash %}
 _0.cfs
 
 _0.cfx
@@ -150,6 +153,7 @@ _0.cfx
 segments.gen
 
 segments_2
+{% endhighlight %}
 
 如果采用多文件索引格式存储，增加以下语句：
 
@@ -159,8 +163,9 @@ writer.setUseCompundFile(false);
 
 Indexing 16 files took 1232 milliseconds
 
-生成索引文件：
+生成索引文件
 
+{% highlight bash %}
 _1.fdt
 
 _1.fdx
@@ -180,4 +185,5 @@ _1.tis
 segments.gen
 
 segments_3
+{% endhighlight %}
 
