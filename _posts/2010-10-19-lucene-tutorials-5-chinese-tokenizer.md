@@ -84,5 +84,6 @@ at org.apache.lucene.queryParser.QueryParser.parse(
 {% endhighlight %}
 
 哎，中文编程真是麻烦！
+
 org.apache.lucene.queryParser.ParseException: Cannot parse '??': '*' or '?' not allowed as first character in WildcardQueryQueryParser.java:187)Searcher.java:44)Searcher.java:29)org.apache.lucene.queryParser.ParseException: '*' or '?' not allowed as first character in WildcardQueryQueryParser.java:923)QueryParser.java:1347)QueryParser.java:1250)QueryParser.java:1178)QueryParser.java:1167)QueryParser.java:182) 
 
