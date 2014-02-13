@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Lucene学习6 Lucene文档模式
 categories: [search]
 tags: [search, lucene, document]
