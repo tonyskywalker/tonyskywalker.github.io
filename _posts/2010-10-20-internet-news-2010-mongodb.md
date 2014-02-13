@@ -87,7 +87,7 @@ tags: [system, database, mongodb, mysql]
 
 　　内置GridFS，支持大容量的存储：这个特点是最吸引我眼球的，也是让我放弃其他NoSQL的一个原因。GridFS具体实现其实很简单，本质仍然是将文件分块后存储到files.file和files.chunk 2个collection中，在各个主流的driver实现中，都封装了对于GridFS的操作。由于GridFS自身也是一个Collection，你可以直接对文件的属性进行定义和管理，通过这些属性就可以快速找到所需要的文件，轻松管理海量的文件，无需费神如何hash才能避免文件系统检索性能问题， 结合下面的Auto-sharding，GridFS的扩展能力是足够我们使用了。在实践中，我们用MongoDB的GridFs存储图片和各种尺寸的缩略图。
 
-![2010 mongodb sharding](2010-mongodb-3.gif)
+![2010 mongodb sharding](/images/2010-mongodb-3.gif)
 
 图3 MongoDB的Auto-sharding结构
 
