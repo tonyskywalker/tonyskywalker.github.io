@@ -57,13 +57,13 @@ tags: [system, database, mongodb, mysql]
 
 　　Collection中可以包含具有不同schema的文档记录。 这意味着，你上一条记录中的文档有3个属性，而下一条记录的文档可以有10个属性，属性的类型既可以是基本的数据类型（如数字、字符串、日期等），也可以是数组或者散列，甚至还可以是一个子文档（embed document）。这样，可以实现逆规范化（denormalizing）的数据模型，提高查询的速度。
 
-![2010 mongodb schema](/images/2010-mongodb-1.jif)
+![2010 mongodb schema](/images/2010-mongodb-1.gif)
 
 图1 MongoDB是一个Schema-free的文档数据库
 
 　　图2是一个例子，作品和评论可以设计为一个collection，评论作为子文档内嵌在art的comments属性中，评论的回复则作为comment子文档的子文档内嵌于replies属性。按照这种设计模式，只需要按照作品id检索一次，即可获得所有相关的信息了。在MongoDB中，不强调一定对数据进行Normalize ，很多场合都建议De-normalize，开发人员可以扔掉传统关系数据库各种范式的限制，不需要把所有的实体都映射为一个Collection，只需定义最顶级的class。MongoDB的文档模型可以让我们很轻松就能将自己的Object映射到collection中实现存储。
 
-![2010 mongodb document](/images/2010-mongodb-2.jif)
+![2010 mongodb document](/images/2010-mongodb-2.gif)
 
 图2 MongoDB支持嵌入子文档
 
@@ -87,7 +87,7 @@ tags: [system, database, mongodb, mysql]
 
 　　内置GridFS，支持大容量的存储：这个特点是最吸引我眼球的，也是让我放弃其他NoSQL的一个原因。GridFS具体实现其实很简单，本质仍然是将文件分块后存储到files.file和files.chunk 2个collection中，在各个主流的driver实现中，都封装了对于GridFS的操作。由于GridFS自身也是一个Collection，你可以直接对文件的属性进行定义和管理，通过这些属性就可以快速找到所需要的文件，轻松管理海量的文件，无需费神如何hash才能避免文件系统检索性能问题， 结合下面的Auto-sharding，GridFS的扩展能力是足够我们使用了。在实践中，我们用MongoDB的GridFs存储图片和各种尺寸的缩略图。
 
-![2010 mongodb sharding](2010-mongodb-3.jif)
+![2010 mongodb sharding](2010-mongodb-3.gif)
 
 图3 MongoDB的Auto-sharding结构
 
