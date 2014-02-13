@@ -175,6 +175,7 @@ Connected Urban Development (connectedurbandevelopment.org)
 Building a smarter planet (asmarterplanet.com)
 
 The pace of technology and business change will only accelerate, and the impact of the trends above will broaden and deepen. For some organizations, they will unlock significant competitive advantages; for others, dealing with the disruption they bring will be a major challenge. Our broad message is that organizations should incorporate an understanding of the trends into their strategic thinking to help identify new market opportunities, invent new ways of doing business, and compete with an ever-growing number of innovative rivals.
+
 转载自iflonely（纯属学习和交流目的） 原文链接iflonely.com/wordpress/2010/08/%E9%BA%A6%E8%82%AF%E9%94%A1%EF%BC%9A%E5%8D%81%E5%A4%A7tech-enable%E5%95%86%E4%B8%9A%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/ 
 
 
