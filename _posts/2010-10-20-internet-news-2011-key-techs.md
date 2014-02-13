@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cn_post
 title: 有关互联网的思考0（补遗） 社会化时代 2011十大战略技术
 categories: [internet]
 tags: [internet, social, 2011, technology]
