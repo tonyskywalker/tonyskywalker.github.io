@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<section class="meta">
+<span class="author">
+	<a href="http://tonyskywalker.github.io">{{ site.author }}</a>
+</span>
+
+<span class="time">
+	tony /
+	<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+</span>
+<br/>
+
+{% if page.categories %}
+<span class="categories">
+	categories
+	{% for cat in page.categories %}
+	<a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+	{% endfor %}
+</span>
+{% endif %}
+<br/>
+
+{% if page.tags %}
+<span class="tags">
+	tags
+	{% for tag in page.tags %}
+	<a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+	{% endfor %}
+</span>
+{% endif %}
+</section>
+
+<section class="post">
+{{ content }}
+</section>
+
+{% include cn_comments.md %}
+
+
