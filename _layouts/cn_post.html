@@ -37,6 +37,12 @@ layout: default
 {{ content }}
 </section>
 
+<span>
+<a {% if page.previous %} href="{{ site.url }}{{ page.previous.url }}" class="pageNav"{% endif %} {% unless page.previous %} class="pageNavInvalid" {% endunless %} >前一页</a>
+&nbsp;&nbsp;&nbsp;
+<a {% if page.next %} href="{{ site.url }}{{ page.next.url }}" class="pageNav"{% endif %} {% unless page.next %} class="pageNavInvalid" {% endunless %} >后一页</a>
+</span>
+
 {% include cn_comments.md %}
 
 
