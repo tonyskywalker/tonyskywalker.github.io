@@ -1,17 +1,15 @@
-<section class="comment">
-<div id="duoshuo_thread"></div>
+<!-- Duoshuo Comment BEGIN -->
+	<div class="ds-thread"></div>
 <script type="text/javascript">
-	var duoshuoQuery = {short_name: "tonyskywalker"};
-
+var duoshuoQuery = {short_name:"tonyskywalker"};
 	(function() {
-		var dsq = document.createElement('script');
-		dsq.type = 'text/javascript';
-		dsq.async = true;
-		dsq.src = 'http://static.duoshuo.com/embed.js';
-		dsq.charset = 'UTF-8';
-
-		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-</script>
-</section>
+	</script>
+<!-- Duoshuo Comment END -->
 
