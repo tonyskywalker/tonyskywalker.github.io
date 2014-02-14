@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: n-gram语言模型，hmm模型，统一框架
-categories: [语言, 2013]
+categories: [语言]
 tags: [语言, 分词, 模型, ngram, hmm]
 ---
 

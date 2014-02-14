@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 完美的c和lisp
-categories: [编程, 2013]
+categories: [编程]
 tags: [编程, c, lisp]
 ---
 

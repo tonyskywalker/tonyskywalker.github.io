@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: baidu空间 back again
-categories: [生活, 2013]
+categories: [生活]
 tags: [生活, 百度, 博客]
 ---
 

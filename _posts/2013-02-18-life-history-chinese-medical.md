@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 历史文化 中医
-categories: [生活, 2013]
+categories: [生活]
 tags: [生活, 历史, 中医]
 ---
 

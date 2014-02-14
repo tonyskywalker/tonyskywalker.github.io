@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 新词发现，词库整理
-categories: [语言, 2013]
+categories: [语言]
 tags: [语言, 中文, 分词, 词库, 新词]
 ---
 
