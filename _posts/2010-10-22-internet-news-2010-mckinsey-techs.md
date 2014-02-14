@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 有关互联网的思考5 十大tech-enable商业发展趋势
-categories: [internet]
-tags: [internet, 2010, technology]
+categories: [互联网]
+tags: [互联网, 2010, 技术]
 ---
 
 前面列了一些互联网方面的创业公司，现在该说一下互联网目前的发展的总体趋势。

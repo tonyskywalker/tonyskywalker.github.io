@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 互联网系统架构的未来 Google App Engine
-categories: [system]
-tags: [system, google]
+categories: [系统]
+tags: [系统, google, 架构]
 ---
 
 今天天气特冷，就不想好好写东西了，有点懒，到是以前看过的一些东西不错，想回忆一下。

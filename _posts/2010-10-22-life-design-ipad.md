@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: iPad 有关品牌问题（下）
-categories: [life]
-tags: [life, 品牌]
+categories: [生活]
+tags: [生活, 品牌, 创新]
 ---
 
 国庆时还在西单那里体验了一下Apple的产品。

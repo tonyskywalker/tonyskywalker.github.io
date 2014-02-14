@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 有关互联网的思考2 2010年最具影响力十大技术
-categories: [internet]
-tags: [internet, 2010, technology]
+categories: [互联网]
+tags: [互联网, 2010, 技术]
 ---
 
 前天看到一篇2011年十大战略技术，想起以前看到的2010十大技术，觉得趋势越来越明显。

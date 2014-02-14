@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 美特斯邦威 有关品牌问题（上）
-categories: [life]
-tags: [life, 品牌]
+categories: [生活]
+tags: [生活, 品牌]
 ---
 
 在海南待了四年，还真不适应北京的天气，秋天太短了。

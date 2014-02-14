@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 有关互联网的思考6 YCombinator展示36家孵化创业公司
-categories: [internet]
-tags: [internet, ycombinator, 2010, 创业]
+categories: [互联网]
+tags: [互联网, ycombinator, 2010, 创业]
 ---
 
 学习期间看了不少创新工场的进展，同时也比较了一下国外的创新工场YCombinator的情况（当然是我们模仿别人了）。以下是相关内容转载：

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 有关互联网的思考4 Accelerate 2010评出亚洲50大新兴应用
-categories: [internet]
-tags: [internet, asia, 2010, 创业]
+categories: [互联网]
+tags: [互联网, 亚洲, 2010, 创业]
 ---
 
 刚才是从全球的视角看的，现在看一下亚洲的数据。
