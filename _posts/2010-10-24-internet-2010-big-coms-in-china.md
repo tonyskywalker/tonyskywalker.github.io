@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 互联网全业务混战时代，我们该如何开发互联网产品？
-categories: [internet]
-tags: [internet, product, design]
+categories: [互联网]
+tags: [互联网, 产品, 设计]
 ---
 
 这几天实验了几款博客空间，想起了很多互联网产品设计问题。

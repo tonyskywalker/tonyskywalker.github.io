@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 再次思考吴军的《浪潮之巅》互联网公司警钟长鸣
-categories: [internet]
-tags: [internet, google, 吴军, 创新]
+categories: [互联网]
+tags: [互联网, google, 吴军, 创新]
 ---
 
 昨天回忆了一点吴军的《数学之美》和Google黑板报的Google十周年系列，今天将吴军的《浪潮之巅》也引用一下，哈哈，吴军老师就是厉害！

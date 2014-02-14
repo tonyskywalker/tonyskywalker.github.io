@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 互联网产品设计 国内互联网的潜在机会
-categories: [internet]
-tags: [internet, blog, product, design]
+categories: [互联网]
+tags: [互联网, 博客, 产品, 设计]
 ---
 
 大学四年没写过几个网络日志的我，这几天好好实验了一下博客空间，将主流的博客空间几乎一一试用，皆不满意。
