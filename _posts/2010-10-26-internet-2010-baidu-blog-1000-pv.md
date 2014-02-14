@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 用心经营博客，结实天下英雄 纪念空间一星期访问量突破1000
-categories: [internet]
-tags: [internet, blog, baidu, product, design]
+categories: [互联网]
+tags: [互联网, 博客, 百度, 产品, 设计]
 ---
 
 上周一终于选定了百度空间，作为自己今后写博客，做技术，谈生活，交朋友的主要场所。

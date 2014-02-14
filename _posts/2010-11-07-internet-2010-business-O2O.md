@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 电子商务的未来 全新的概念O2O
-categories: [internet]
-tags: [internet, 2010, O2O]
+categories: [互联网]
+tags: [互联网, 2010, O2O, 电商]
 ---
 
 今天刚看到一个概念，叫O2O，就是线上购买，线下交割。
