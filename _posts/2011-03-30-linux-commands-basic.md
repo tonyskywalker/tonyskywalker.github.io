@@ -7,11 +7,11 @@ tags: [tool, linux]
 
 linux系统常用命令
 
-uname -a # 查看内核/操作系统/CPU信息
+# uname -a # 查看内核/操作系统/CPU信息
 
-head -n 1 /etc/issue # 查看操作系统版本
+# head -n 1 /etc/issue # 查看操作系统版本
 
-cat /proc/cpuinfo # 查看CPU信息
+# cat /proc/cpuinfo # 查看CPU信息
 
 hostname # 查看计算机名
 
