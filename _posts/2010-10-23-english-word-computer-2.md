@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 英语学习 专业英语系列2
-categories: [english]
-tags: [english, 单词]
+categories: [英语]
+tags: [英语, 单词]
 ---
 
 Wildcard  通配符

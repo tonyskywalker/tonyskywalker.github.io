@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 纪念Google十二岁 重翻《Google十周年》
-categories: [internet]
-tags: [internet, google]
+categories: [互联网]
+tags: [互联网, google]
 ---
 
 这半年来自己的想法发生了很大变化，对国内互联网企业的认识也更加深入。尤其是国外互联网企业的竞争变化，让我感触颇多。

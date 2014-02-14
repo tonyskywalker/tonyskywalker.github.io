@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 英语学习 专业英语系列1
-categories: [english]
-tags: [english, 单词]
+categories: [英语]
+tags: [英语, 单词]
 ---
 
 Normalize  正常化，正规化

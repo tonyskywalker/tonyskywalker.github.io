@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 搜索的未来-信息检索算法 想起吴军老师的《数学之美》
-categories: [search]
-tags: [search, 吴军, math]
+categories: [互联网]
+tags: [互联网, 吴军, 数学]
 ---
 
 学习搜索引擎相关技术已经有一段时间了，《数学之美》系列是目前为止最平易近人的有关信息检索和自然语言处理方面的入门介绍。
