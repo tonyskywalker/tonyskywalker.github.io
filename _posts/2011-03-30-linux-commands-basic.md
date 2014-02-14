@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: linux命令
-categories: [工具, 2011]
+categories: [工具]
 tags: [工具, linux]
 ---
 

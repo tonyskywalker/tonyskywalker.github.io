@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: how to be one googler?
-categories: [工作, 2011]
+categories: [工作]
 tags: [工作, google, 团队]
 ---
 

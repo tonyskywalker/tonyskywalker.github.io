@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 视觉与语言
-categories: [生活, 2011]
+categories: [生活]
 tags: [生活, 视觉, 语言]
 ---
 

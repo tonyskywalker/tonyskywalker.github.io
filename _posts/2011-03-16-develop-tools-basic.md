@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 编程工具 UltraEdit EditPlus
-categories: [工具, 2011]
+categories: [工具]
 tags: [工具, 编程]
 ---
 

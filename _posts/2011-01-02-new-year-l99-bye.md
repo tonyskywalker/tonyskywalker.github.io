@@ -1,7 +1,7 @@
 ---
 layout: cn_post
 title: 新年的坚定，geek归来！
-categories: [生活, 2011]
+categories: [生活]
 tags: [生活, 创业, 技术]
 ---
 
