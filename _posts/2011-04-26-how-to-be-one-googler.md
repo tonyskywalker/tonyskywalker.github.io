@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: how to be one googler?
-categories: [work]
-tags: [work, google, team]
+categories: [工作, 2011]
+tags: [工作, google, 团队]
 ---
 
 成为一个好的教练。

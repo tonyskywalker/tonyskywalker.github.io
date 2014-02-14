@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 编程工具 UltraEdit EditPlus
-categories: [tool]
-tags: [tool, program]
+categories: [工具, 2011]
+tags: [工具, 编程]
 ---
 
 UltraEdit 16.30 main windows

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: linux命令
-categories: [tool]
-tags: [tool, linux]
+categories: [工具, 2011]
+tags: [工具, linux]
 ---
 
 linux系统常用命令
