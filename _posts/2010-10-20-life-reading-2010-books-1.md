@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 好书新发现 《Tika in Action》 《Lucene in Depth》
-categories: [book]
-tags: [book, 2010, nosql, search]
+categories: [读书]
+tags: [读书, 2010, nosql, 搜索]
 ---
 
 最近需要做一些文本提取的工作，发现了Tika，能够和Lucene，Solr，Nutch，Mahout等整合，功能十分强大。同时也发现了相关的图书《Tika in Action》。

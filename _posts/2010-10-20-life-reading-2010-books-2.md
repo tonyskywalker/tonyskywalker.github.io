@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 近来买书汇总 NOSQL相关
-categories: [book]
-tags: [book, 2010, nosql, search]
+categories: [读书]
+tags: [读书, 2010, nosql, 搜索]
 ---
 
 来北京后，基本上是完全转移方向，以前买的很多书基本没带来。

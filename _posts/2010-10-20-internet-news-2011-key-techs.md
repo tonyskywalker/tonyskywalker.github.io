@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 有关互联网的思考0（补遗） 社会化时代 2011十大战略技术
-categories: [internet]
-tags: [internet, social, 2011, technology]
+categories: [互联网]
+tags: [互联网, 社会化, 2011, 技术]
 ---
 
 Gartner最近公布2011年十大战略技术，其中有关社交网络和数据挖掘的分量很重。

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Hadoop欣慰 Hadoop和Membase整合
-categories: [system]
-tags: [system, hadoop, membase]
+categories: [系统]
+tags: [系统, nosql, hadoop, membase]
 ---
 
 近一年来，Hadoop在国内外已经得到了很多的实际应用，不得不赞一下Cloudera公司。

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Solr学习1 模式设计
-categories: [search]
-tags: [search, solr, schema]
+categories: [搜索]
+tags: [搜索, solr, 模式]
 ---
 
 Lucene只是一个信息检索库，提供了核心的索引和搜索功能，但是一个完整的搜索产品还需要很多。

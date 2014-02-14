@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: MongoDB好消息 视觉中国从MySQL转到MongoDB
-categories: [system]
-tags: [system, database, mongodb, mysql]
+categories: [系统]
+tags: [系统, nosql, mongodb, mysql]
 ---
 
 国内MongoDB应用最新进展，视觉中国已经全面从MySQL迁移到MongoDB，注意是“全面”！

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: 搜索引擎新闻 国内市场价值
-categories: [internet]
-tags: [internet, news, search]
+categories: [互联网]
+tags: [互联网, 新闻, 搜索]
 ---
 
 根据iresearch的数据，预估2010Q3，中国搜索引擎市场规模将达31.3亿元，环比增长16.3%，同比增长58.9%，环比及同比增长率均高于09年同期。

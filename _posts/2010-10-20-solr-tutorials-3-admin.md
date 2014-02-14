@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Solr学习3 管理界面
-categories: [search]
-tags: [search, solr, admin]
+categories: [搜索]
+tags: [搜索, solr]
 ---
 
 Solr提供的管理界面功能十分强大，可以通过以下url访问：

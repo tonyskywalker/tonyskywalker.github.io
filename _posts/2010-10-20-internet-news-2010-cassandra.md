@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Cassandra追忆 Twitter停用Cassandra的误解
-categories: [system]
-tags: [system, cassandra]
+categories: [系统]
+tags: [系统, nosql, cassandra]
 ---
 
 刚刚写了关于Hadoop和MongoDB的两篇文章，突然想起上个月看到Cassandra的消息。
