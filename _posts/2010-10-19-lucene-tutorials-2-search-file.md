@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Lucene学习2 搜索文本文件
-categories: [search]
-tags: [search, lucene]
+categories: [搜索]
+tags: [搜索, lucene, 查询]
 ---
 
 Lucene搜索文本文件简单例子

@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Lucene学习4 Tika内容提取
-categories: [search]
-tags: [search, lucene, tika, extraction]
+categories: [搜索]
+tags: [搜索, lucene, tika, 提取]
 ---
 
 Tika提取富文本文档简单例子

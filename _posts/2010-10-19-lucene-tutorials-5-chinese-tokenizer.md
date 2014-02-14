@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Lucene学习5 中文分词
-categories: [search]
-tags: [search, lucene, tokenizer]
+categories: [搜索]
+tags: [搜索, lucene, 中文, 分词]
 ---
 
 Lucene一般使用StandardAnalyzer，对于中文采用单字分词方法，效果不是很好。

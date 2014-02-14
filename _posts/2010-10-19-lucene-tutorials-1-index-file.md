@@ -1,8 +1,8 @@
 ---
 layout: cn_post
 title: Lucene学习1 索引文本文件
-categories: [search]
-tags: [search, lucene, index]
+categories: [搜索]
+tags: [搜索, lucene, 索引]
 ---
 
 Lucene 索引文本文件的简单例子：
