@@ -43,17 +43,17 @@ W1, W2, W3, W4 ..
 
 n-gram语言模型
 
-在实际应用中，我们经常需要解决这样一类问题：如何计算一个句子的概率？如： 
+在实际应用中，我们经常需要解决这样一类问题：如何计算一个句子的概率？如:
 
-    机器翻译：P(highwinds tonite) > P(large winds tonite)
+- 机器翻译：P(highwinds tonite) > P(large winds tonite)
 
-    拼写纠错：P(about fifteen minutes from) > P(about fifteen minuets from)
+- 拼写纠错：P(about fifteen minutes from) > P(about fifteen minuets from)
 
-    语音识别：P(I saw a van) >> P(eyes awe of an)
+- 语音识别：P(I saw a van) >> P(eyes awe of an)
 
-    音字转换：P(你现在干什么|nixianzaiganshenme) > P(你西安在干什么|nixianzaiganshenme)
+- 音字转换：P(你现在干什么|nixianzaiganshenme) > P(你西安在干什么|nixianzaiganshenme)
 
-    自动文摘、问答系统、... ...
+- 自动文摘、问答系统、... ...
 
 以上问题的形式化表示如下：
 
@@ -69,13 +69,13 @@ p(wi|w1,w2,...,wi-1) = p(w1,w2,...,wi-1,wi) / p(w1,w2,...,wi-1)
 
 基于马尔科夫假设（Markov Assumption）：下一个词的出现仅依赖于它前面的一个或几个词。
 
-    假设下一个词的出现依赖它前面的一个词，则有：
+假设下一个词的出现依赖它前面的一个词，则有：
 
 p(S)=p(w1)p(w2|w1)p(w3|w1,w2)...p(wn|w1,w2,...,wn-1)
 
 =p(w1)p(w2|w1)p(w3|w2)...p(wn|wn-1) // bigram
 
-    假设下一个词的出现依赖它前面的两个词，则有：
+假设下一个词的出现依赖它前面的两个词，则有：
 
 p(S)=p(w1)p(w2|w1)p(w3|w1,w2)...p(wn|w1,w2,...,wn-1)
 
@@ -83,9 +83,9 @@ p(S)=p(w1)p(w2|w1)p(w3|w1,w2)...p(wn|w1,w2,...,wn-1)
 
 那么，我们在面临实际问题时，如何选择依赖词的个数，即n。
 
-    更大的n：对下一个词出现的约束信息更多，具有更大的辨别力；
+更大的n：对下一个词出现的约束信息更多，具有更大的辨别力；
 
-    更小的n：在训练语料库中出现的次数更多，具有更可靠的统计信息，具有更高的可靠性。
+更小的n：在训练语料库中出现的次数更多，具有更可靠的统计信息，具有更高的可靠性。
 
 理论上，n越大越好，经验上，trigram用的最多，尽管如此，原则上，能用bigram解决，绝不使用trigram。
 
