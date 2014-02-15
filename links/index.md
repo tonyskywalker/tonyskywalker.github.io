@@ -23,6 +23,12 @@ http://www.searchenginecaffe.com/
 
 http://blog.pluskid.org/
 
+open news
+=========
+
+https://news.ycombinator.com/news
+
+
 
 open papers
 ===========
