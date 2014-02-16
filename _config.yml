@@ -1,4 +1,5 @@
 url: http://tonyskywalker.github.io
+permalink: /:year/:month/:day/:title/
 author: tonyskywalker
 markdown: rdiscount
 pygments: true

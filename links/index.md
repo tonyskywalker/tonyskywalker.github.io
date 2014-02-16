@@ -24,6 +24,7 @@ statistics
 
 cos  http://cos.name/
 
+谢益辉 http://yihui.name/cn/
 
 
 learning
