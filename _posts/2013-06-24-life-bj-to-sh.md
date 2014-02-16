@@ -1,6 +1,6 @@
 ---
 layout: cn_post
-title: 2013-06 从北京到生活
+title: 2013-06 从北京到上海
 categories: [生活]
 tags: [北京, 上海]
 ---
