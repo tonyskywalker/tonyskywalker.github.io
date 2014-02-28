@@ -4,7 +4,7 @@ layout: page
 comments: yes
 ---
 
-![the other](http://makerhacker.github.io/)
+[the other](http://makerhacker.github.io/)
 
 技术发明 =》 商业创新 =》社会变革
 ================================
