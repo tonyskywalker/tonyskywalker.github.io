@@ -30,6 +30,8 @@ cos  http://cos.name/
 learning
 ========
 
+http://radimrehurek.com/ gensim
+
 http://notes.tomsheep.net/ 统计学习方法
 
 http://blog.csdn.net/zouxy09/ 生成模型与判别模型
