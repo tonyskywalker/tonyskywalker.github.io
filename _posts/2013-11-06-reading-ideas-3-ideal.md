@@ -1,6 +1,6 @@
 ---
 layout: cn_post
-title: 读书感悟2 生活与理想
+title: 读书感悟3 生活与理想
 categories: [读书]
 tags: [读书, 生活, 理想]
 ---
