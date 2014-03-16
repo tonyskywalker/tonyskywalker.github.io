@@ -1,6 +1,6 @@
 ---
 layout: cn_post
-title: 我的图书馆 急需补习
+title: 我的图书馆2 急需补习
 categories: [读书]
 tags: [读书]
 ---
