@@ -19,8 +19,14 @@ git, github, dropbox
 分布式系统：
 spark(mapreduce), graphlab(graph-computing), gensim(topic-model)
 
+nosql数据库：
+mongodb, redis, graph-db
+
 算法模型：
 word2ec(词向量化), senna。。。
+
+graph-computing:
+graph is the future
 
 工具的选择很重要，kiss me, not kill me。
 
