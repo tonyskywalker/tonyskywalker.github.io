@@ -44,6 +44,15 @@ author: (Christopher D. Manning) (Hinrich Schutze)
 
 Spoken Language Processing (打印版) author: (Xuedong Huang) (Alex Acero) (Hsiao-Wuen Hon)
 
+统计机器翻译
+
+人工智能
+=======
+
+人工智能的未来
+
+如何创造思维
+
 数学与历史
 =========
 
@@ -66,4 +75,10 @@ Spoken Language Processing (打印版) author: (Xuedong Huang) (Alex Acero) (Hsi
 
 物理世界奇遇记
 
+哲学与历史
+=========
+
+苏菲的世界
+
+西方哲学史
 

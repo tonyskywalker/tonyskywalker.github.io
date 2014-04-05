@@ -16,8 +16,22 @@ tags: [读书]
 
 生命是什么
 
+惊人的假说
+
+第二自然
+
 认知科学
 =======
+
+thinking fast and slow
+
+in search of memory
+
+how the mind works
+
+the language instinct
+
+the socity of mind
 
 人工智能
 =======
@@ -31,6 +45,8 @@ tags: [读书]
 
 复杂
 
-失控
+out of control
+
+a new kind of science
 
 
