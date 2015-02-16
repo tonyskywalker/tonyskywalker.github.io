@@ -1,4 +1,4 @@
--------------
+---
 layout: cn_post
 title: QQ记录点滴5 dialogue
 categories: [生活]

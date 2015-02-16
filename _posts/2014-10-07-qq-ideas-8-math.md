@@ -1,4 +1,4 @@
--------------
+---
 layout: cn_post
 title: QQ记录点滴8 math
 categories: [生活]

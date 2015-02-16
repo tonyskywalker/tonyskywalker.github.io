@@ -1,4 +1,4 @@
--------------
+---
 layout: cn_post
 title: 2015QQ记录点滴2 new world 2
 categories: [生活]
